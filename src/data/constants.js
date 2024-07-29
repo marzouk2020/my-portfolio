@@ -142,9 +142,21 @@ export const projects = [
     image:
       "https://github.com/marzouk2020/Marzouk-Store/blob/main/to-do-list.png?raw=true",
     tags: ["Next js", "talwindcss", "Node Js"],
-    category: "Android app",
+    category: "web app",
     github: "https://github.com/marzouk2020",
     webapp: "https://to-doalist.netlify.app/",
+  },
+  {
+    id: 3,
+    title: "Ecommerce Services",
+    date: "2024 - Present",
+    description: "Ecommerce Website for the technologies",
+    image:
+      "https://github.com/marzouk2020/Marzouk-Store/blob/main/Screenshot%202024-03-13%20171855.png?raw=true",
+    tags: ["react js", "Vit", "talwindcss", "Node Js"],
+    category: "android app",
+    github: "https://github.com/marzouk2020",
+    webapp: "https://e-commerc-marzouk.netlify.app/",
   },
 ];
 
