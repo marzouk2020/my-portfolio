@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges.With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things and working under .",
   github: "https://github.com/marzouk2020",
   resume:
-    "https://acrobat.adobe.com/id/urn:aaid:sc:EU:16543015-78eb-451a-8044-2029c5ddf974",
+    "https://drive.google.com/file/d/1WlazvWQoJQABAN3MOnFe72U6jOdyVw_P/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/marzouk-mahmoud-ba1433260/",
   twitter:
     "https://twitter.com/i/flow/login?redirect_after_login=%2FMarzouk21520883",
