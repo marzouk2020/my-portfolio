@@ -112,9 +112,9 @@ export const education = [
     id: 0,
     img: "http://www.menofia.edu.eg/PrtlFiles/uni/Portal/SiteInfo/uni_ar.png",
     school: "facult of law menofia university",
-    date: "Oct 2020 - Sep 2024",
+    date: "Oct 2020 - Aug 2024",
     grade: "good",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Law",
     degree: "Bachelor of Law but i love Tec ",
   },
 ];
