@@ -158,6 +158,19 @@ export const projects = [
     github: "https://github.com/marzouk2020",
     webapp: "https://e-commerc-marzouk.netlify.app/",
   },
+  {
+    id: 4,
+    title: "Crud Application",
+    date: "2024 - Present",
+    description:
+      "The CRUD application that will be used to help to mange the product",
+    image:
+      "https://github.com/marzouk2020/Marzouk-Store/blob/main/Crud-app.png?raw=true",
+    tags: ["HTML5", "CSS3", "talwindcss", ""],
+    category: "web app",
+    github: "https://github.com/marzouk2020/Crud",
+    webapp: "https://mange-product.netlify.app/",
+  },
 ];
 
 export const TimeLineData = [
